@@ -111,7 +111,7 @@ def push_to_github(path):
 def main():
     # List of projects to push (replace with your actual paths)
     projects = [
-        "/Users/aarthigangadevi/Desktop/Projects"
+       # "Enter your path here"
     ]
     
     # Get GitHub credentials
